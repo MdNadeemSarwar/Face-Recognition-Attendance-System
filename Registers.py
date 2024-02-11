@@ -88,7 +88,6 @@ class Register:
         self.combo_security.current(0)
         self.combo_security.place(x=50,y=260,width=270)
 
-
         #label2 
         sa =lb1= Label(frame,text="Quiz:",font=("times new roman",15,"bold"),fg="#002B53",bg="#F2F2F2")
         sa.place(x=50,y=300)
