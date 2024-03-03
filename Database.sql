@@ -6,7 +6,7 @@ CREATE DATABASE face_recognizer;
 
 SELECT * FROM face_recognizer.student;
 
------------------For using student data----------- 
+-----------------For using student data---------
 ----------- creating a table , table name student
 CREATE TABLE face_recognizer.student (
   Dep VARCHAR(45) NULL,
