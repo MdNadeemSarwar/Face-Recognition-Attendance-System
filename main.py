@@ -14,7 +14,6 @@ from developer import Developer
 from time import strftime
 from datetime import datetime
 
-
 class Face_Recognition_System:
     def __init__(self,root):
         self.root=root
